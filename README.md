@@ -37,5 +37,5 @@ We will go over basics of Git during club meetings, but information about Git an
 
 ## **Other useful stuff**
 
-Github tutorial - https://guides.github.com/activities/hello-world/
-Flow charts - https://www.codeavengers.com/notes/planning/flowcharts
+* Github tutorial - https://guides.github.com/activities/hello-world/
+* Flow charts - https://www.codeavengers.com/notes/planning/flowcharts
