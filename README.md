@@ -8,7 +8,7 @@
 ## **Tools** 
 
 > None of these tools are necessary, but they are recommended for anyone who doesn't already have something for it. 
-> 
+
 ### Text editor
 * Atom - https://atom.io/
 
